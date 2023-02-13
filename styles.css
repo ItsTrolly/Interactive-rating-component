@@ -72,7 +72,11 @@ button{
     color: #fff;
     font-size: 1.3rem;
     transition: 0.15s;
-    font-family: 'Overpass', sans-serif;
+     font-family: 'Overpass', sans-serif;
+    font-weight: 400;
+    margin-top: 20px;
+    font-size: 1.1rem;
+    letter-spacing: .1rem;
 }
 
 .thanks-container{
